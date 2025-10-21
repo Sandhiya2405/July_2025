@@ -26,6 +26,8 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class BasePF {
 	
+	//justchecking
+	
 	public static WebDriver driver = null;
 	public static Select s;
 			
